@@ -1,3 +1,13 @@
+.true-class{
+background-color: yellow;
+
+}
+.false-class{
+background-color: white;
+}
+.yellow{
+  background-color: yellow;
+}
 .masthead-heading,
 .masthead-intro{
 	text-align: center;
